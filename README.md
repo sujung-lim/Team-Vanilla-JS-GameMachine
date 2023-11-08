@@ -1,4 +1,5 @@
 # Game Machine
+Pages: https://yejify.github.io/GameMachine/
 
 ## 2048
 
